@@ -78,8 +78,8 @@ print("The output solution is {} with an objective value of {}.".format(np.round
 ## Convergence Visualization
 Convergence of two types of optimization method on Rosenbrock function.
 
-Genetic Algorithm (GA) excels at global optimization with robust population-based exploration, making it ideal for complex problems with noisy landscapes. 
-Cross-Entropy (CE) Method converges faster through adaptive Gaussian sampling, offering efficient parametric optimization for continuous, smooth objective functions with fewer tuning parameters.
+- Genetic Algorithm (GA) excels at global optimization with robust population-based exploration, making it ideal for complex problems with noisy landscapes. 
+- Cross-Entropy (CE) Method converges faster through adaptive Gaussian sampling, offering efficient parametric optimization for continuous, smooth objective functions with fewer tuning parameters.
 ![Convergence](./images/Figure_1.png "convergence")
 
 
