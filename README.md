@@ -74,3 +74,9 @@ print("The output solution is {} with an objective value of {}.".format(np.round
 - `elite_frac`: Fraction of elite samples (default: 0.1)
 - `eps`: Convergence tolerance (default: 1e-6)
 
+
+## Convergence Visualization
+Convergence of two types of optimization method on Rosenbrock function.
+
+![Convergence](./images/Figure_1.png "convergence")
+

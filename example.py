@@ -44,4 +44,5 @@ if __name__ == '__main__':
     plt.xlabel('Iteration')
     plt.ylabel('Objective Value')
     plt.legend()
+    plt.grid()
     plt.show()
